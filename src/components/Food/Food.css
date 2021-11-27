@@ -1,0 +1,31 @@
+.pagination{
+    
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+    
+}
+.selected{
+    background-color: blue;
+    color: white;
+}
+.pagination button{
+    margin-right: 20px;
+    padding: 0 20px;
+    border: none;
+}
+.search-container{
+    background-color:cornflowerblue;
+    text-align: center;
+    line-height: 40px;
+    margin: 15px 0;
+    width: 100%;
+    text-align: center;
+}
+.search-container input{
+    width: 75%;
+}
+.search-container{
+    background-color: #0D6EFD;
+    padding: 20px 0;
+}

@@ -1,0 +1,30 @@
+.navbar a{
+    padding: 10px 0;
+	border-bottom: 1px solid #404040;
+	color: #fff;
+	transition: color 0.5s ease-in-out;
+   text-decoration:none;
+   margin: 10px;
+
+} 
+.navbar a:hover{
+    color: rgb(12, 12, 240);
+}
+
+.logo{
+    color: white;
+    font-weight: 800;
+    font-size: 30px;
+}
+.user-name{
+    color: white;
+    margin: auto;
+    font-size: 14px;
+
+}
+.navbar .search:hover{
+    transition: 0.5s;
+    width: 300px;
+    border-radius: 2px;
+}
+
